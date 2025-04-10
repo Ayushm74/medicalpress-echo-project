@@ -32,7 +32,7 @@ const testimonials = [
     name: 'Emily Davis',
     role: 'Patient',
     image: 'https://randomuser.me/api/portraits/women/4.jpg',
-    quote: 'I've been a patient at MedicalPress for years and have always received excellent care. The doctors and nurses are knowledgeable and compassionate.',
+    quote: "I've been a patient at MedicalPress for years and have always received excellent care. The doctors and nurses are knowledgeable and compassionate.",
     rating: 5
   }
 ];

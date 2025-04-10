@@ -24,7 +24,7 @@ const features = [
   {
     icon: Users,
     title: 'Family Planning',
-    description: 'Guidance and care for your family's future.',
+    description: "Guidance and care for your family's future.",
     color: 'bg-blue-600'
   },
   {
