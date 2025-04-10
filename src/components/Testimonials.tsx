@@ -5,15 +5,15 @@ import { ChevronLeft, ChevronRight, Star } from 'lucide-react';
 const testimonials = [
   {
     id: 1,
-    name: 'John Smith',
+    name: 'Arjun Sharma',
     role: 'Patient',
     image: 'https://randomuser.me/api/portraits/men/1.jpg',
-    quote: 'The care I received at MedicalPress was exceptional. The doctors listened to my concerns and developed a treatment plan that worked for me.',
+    quote: 'The care I received at StealthCare was exceptional. The doctors listened to my concerns and developed a treatment plan that worked for me.',
     rating: 5
   },
   {
     id: 2,
-    name: 'Sarah Johnson',
+    name: 'Priya Patel',
     role: 'Patient',
     image: 'https://randomuser.me/api/portraits/women/2.jpg',
     quote: 'I was impressed by the professionalism and friendliness of the entire staff. They made my hospital stay as comfortable as possible.',
@@ -21,18 +21,18 @@ const testimonials = [
   },
   {
     id: 3,
-    name: 'Michael Brown',
+    name: 'Vikram Malhotra',
     role: 'Patient',
     image: 'https://randomuser.me/api/portraits/men/3.jpg',
-    quote: 'The medical team at MedicalPress is top-notch. They explained everything clearly and addressed all my questions and concerns.',
+    quote: 'The medical team at StealthCare is top-notch. They explained everything clearly and addressed all my questions and concerns.',
     rating: 4
   },
   {
     id: 4,
-    name: 'Emily Davis',
+    name: 'Ananya Desai',
     role: 'Patient',
     image: 'https://randomuser.me/api/portraits/women/4.jpg',
-    quote: "I've been a patient at MedicalPress for years and have always received excellent care. The doctors and nurses are knowledgeable and compassionate.",
+    quote: "I've been a patient at StealthCare for years and have always received excellent care. The doctors and nurses are knowledgeable and compassionate.",
     rating: 5
   }
 ];

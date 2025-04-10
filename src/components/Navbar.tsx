@@ -28,7 +28,7 @@ const Navbar = () => {
             </div>
             <div className="flex items-center text-sm text-medicalpress-dark-gray">
               <MapPin size={16} className="mr-2 text-medicalpress-blue" />
-              <span>123 Main Street, Anytown, USA</span>
+              <span>123 Main Street, Mumbai, India</span>
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <span className="text-3xl font-bold text-medicalpress-dark-blue">Medical<span className="text-medicalpress-blue">Press</span></span>
+              <span className="text-3xl font-bold text-medicalpress-dark-blue">Stealth<span className="text-medicalpress-blue">Care</span></span>
             </Link>
           </div>
           

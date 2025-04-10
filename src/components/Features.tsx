@@ -5,20 +5,20 @@ import { cn } from '@/lib/utils';
 const features = [
   {
     icon: Stethoscope,
-    title: 'Medical Treatment',
-    description: 'Comprehensive medical care for a wide range of conditions.',
+    title: 'Holistic Treatment',
+    description: 'Comprehensive medical care that combines modern and traditional approaches.',
     color: 'bg-medicalpress-blue'
   },
   {
     icon: Heart,
-    title: 'Cardiac Clinic',
-    description: 'Specialized cardiac care from experienced professionals.',
+    title: 'Cardiac Wellness',
+    description: 'Specialized cardiac care from experienced Indian professionals.',
     color: 'bg-medicalpress-dark-blue'
   },
   {
     icon: Activity,
     title: 'Primary Care',
-    description: 'Your first point of contact for healthcare needs.',
+    description: 'Your first point of contact for healthcare needs with personalized attention.',
     color: 'bg-medicalpress-green'
   },
   {
@@ -30,13 +30,13 @@ const features = [
   {
     icon: Clock,
     title: '24 Hour Support',
-    description: 'Medical care available whenever you need it.',
+    description: 'Medical care available whenever you need it, day or night.',
     color: 'bg-green-600'
   },
   {
     icon: Phone,
     title: 'Emergency Cases',
-    description: 'Immediate attention for critical medical conditions.',
+    description: 'Immediate attention for critical medical conditions with rapid response.',
     color: 'bg-sky-500'
   }
 ];

@@ -25,9 +25,9 @@ const slides = [
   {
     id: 3,
     image: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&h=500&q=80',
-    title: 'State-Of-The-Art Facilities',
-    subtitle: 'Advanced Medical Technology',
-    description: 'Our modern facilities are equipped with the latest technology for accurate diagnostics and treatment.',
+    title: 'Ayurvedic Treatments',
+    subtitle: 'Ancient Wisdom, Modern Care',
+    description: 'We combine traditional Ayurvedic practices with modern medical technology for holistic healing.',
     buttonText: 'Our Facilities',
     buttonLink: '/facilities'
   }
